@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// You need to pass the input file as a parameter
 int main(int argc, char const *argv[]) {
   string line;
   ifstream file;
